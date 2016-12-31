@@ -1,6 +1,6 @@
 /*
+Filename: Frequency_meter_BM8010-MD_based_on_PIC16C63A_and_liquid-crystal_display_BC1602D.c
 Microcontroller PIC16C63A/65B/73B/74B
-
 */
 #include<LiquidCrystal.h>
 //
