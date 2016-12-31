@@ -2,7 +2,7 @@
 Microcontroller PIC16C63A/65B/73B/74B
 
 */
-
+#include<LiquidCrystal.h>
 //
 sbit LCD_RS at PORTE0_bit; //
 sbit LCD_E at PORTE1_bit; //
