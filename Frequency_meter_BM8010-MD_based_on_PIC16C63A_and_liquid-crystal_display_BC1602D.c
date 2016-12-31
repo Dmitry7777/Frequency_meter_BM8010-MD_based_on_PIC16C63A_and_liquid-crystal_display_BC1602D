@@ -52,7 +52,7 @@ sbit CM_Q2_direction at TRISA1_bit; //
 sbit CM_INAM_direction at TRISA0_sbit; //
 sbit CM_INBM_direction at TRISA1_sbit; //
 
-void main(){
+int main(){
 //
 const char MEASURE[] = {Hz};
 
